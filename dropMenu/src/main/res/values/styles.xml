@@ -1,0 +1,12 @@
+<resources>
+
+    <!--下拉菜单布局-->
+    <style name="DropDownLayout">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+
+</resources>
